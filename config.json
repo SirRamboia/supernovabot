@@ -1,0 +1,49 @@
+{
+  "embedColor": "be8dda",
+  "embedColorRed": "c32714",
+
+  "clientId": "",
+  "guildId": "676031545798295553",
+  "serverLink": "https://discord.gg/supernova",
+
+  "roles": {
+    "staff": "801833635488464938",
+    "recruta": "759087270237175809",
+    "mute": "1048575947391115334",
+    "gerenteVerificacao": "961985104874446858",
+    "rolesVerify": {
+      "r1": "676475787167137792",
+      "r2": "805886656359170078",
+      "r3": "718768781413056583",
+      "r4": "718770089272410112",
+      "r5": "735551339223842906"
+    },
+    "rolesWarn": {
+      "w1": "937377856135249930",
+      "w2": "937377883918331945"
+    }
+  },
+
+  "channels": {
+    "logComandos": "919357404309770271",
+    "regras": "800478862450491432",
+    "registo": "1001898995335053413",
+    "chatGeral": "730498931364200459",
+    "entradaLog": "729971716985716757",
+    "saidasLog": "802150016088932404",
+    "sugestoes": "817356828517990411",
+    "registoLog": "1015700170299686994"
+  },
+  "emojis": {
+    "greenup": "<:green_up:878229767076339713>",
+    "reddown": "<:red_down:878229570325708841>",
+    "PurpleSN": "<:Purple_SuperNova:822132215877861406>",
+    "PurpleSNlogo": "<:purple_SuperNovalogo:922155720521154570>",
+    "galaxy": "<a:galaxy_gif:920371556377583666>",
+    "saturn": "<:saturn:870011764169928734>"
+  },
+  "category": {
+    "openTickets": "1048353305249718333",
+    "closeTickets": "1048353343455633568"
+  }
+}
